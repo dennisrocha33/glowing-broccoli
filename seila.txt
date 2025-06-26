@@ -2,6 +2,5 @@ Open the Preferences to enable more docs and customize the UI.
 You don't have to use your mouse — see the list of keyboard shortcuts.
 The search supports fuzzy matching (e.g. "bgcp" brings up "background-clip").
 To search a specific documentation, type its name (or an abbr.), then Tab.
-You can search using your browser's address bar — learn how.
 DevDocs works offline, on mobile, and can be installed as web app.
 
